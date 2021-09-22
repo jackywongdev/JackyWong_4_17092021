@@ -737,6 +737,9 @@ p {
   margin: auto;
   height: 10px;
 }
+.social {
+  width: auto;
+}
 .social p {
   color: #ffffff;
   visibility: hidden;
